@@ -1,3 +1,3 @@
 # Hackerrank
 
-Just some fun solving hackerrank problems in Ruby on my spare free time.
+Just some fun solving interview problems in Ruby on my spare free time.

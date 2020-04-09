@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays
+# Minimum Swap 2
 def minimumSwaps(arr, n)
   count = 0
   i = 1

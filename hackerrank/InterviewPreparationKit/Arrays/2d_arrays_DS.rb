@@ -1,3 +1,6 @@
+# https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays
+# 2D Array - DS
+
 def hourglassSum(arr)
     max = -63
     (0..3).each do |x|
